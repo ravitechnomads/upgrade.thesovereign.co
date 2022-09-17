@@ -47649,7 +47649,7 @@
                         case 0:
                           Lu()
                             .post(
-                              "http://https://backend.thesovereign.co//requestForUpdateNFT",
+                              "https://backend.thesovereign.co//requestForUpdateNFT",
                               { nftNumber: j, nftToken: L, walletAddress: o }
                             )
                             .then(function (e) {
